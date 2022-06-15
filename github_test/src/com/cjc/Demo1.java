@@ -6,6 +6,11 @@ public class Demo1
 	{
 	  System.out.println("M1 Method of git hub project");
 	}
+	
+	public void m2()
+	{
+	  System.out.println("M2 Method of git hub project");
+	}
  public static void main(String[] args) 
  {
 	System.out.println("This is git hub project");
