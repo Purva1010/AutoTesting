@@ -9,7 +9,7 @@ public class Demo1
 	
 	public void m2()
 	{
-	  System.out.println("M2 Method of git hub project");
+	  System.out.println("M2 Method of git hub project1");
 	}
  public static void main(String[] args) 
  {
